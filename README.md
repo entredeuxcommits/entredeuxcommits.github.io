@@ -6,6 +6,8 @@ Le point d’entrée vers les guides pratiques de la chaîne : des étapes, des 
 
 ## Contenu
 
+- [Auditer son code avec le skill Cloudflare](https://entredeuxcommits.github.io/guide-security-audit-cloudflare/)
+- [PDF du guide Security Audit + Cloudflare](https://entredeuxcommits.github.io/guide-security-audit-cloudflare/guide-security-audit-cloudflare.pdf)
 - [Installer VoiceStudio sur Windows](https://entredeuxcommits.github.io/guide-voicestudio/)
 - [PDF du guide VoiceStudio](https://entredeuxcommits.github.io/guide-voicestudio/guide-voicestudio.pdf)
 
