@@ -13,6 +13,8 @@ Le point d’entrée vers les guides pratiques de la chaîne : des étapes, des 
 
 Chaque guide conserve son propre site et son dépôt. Le portail rassemble leurs liens.
 
+Le symbole Cloudflare provient du [dépôt officiel de sa documentation](https://github.com/cloudflare/cloudflare-docs/blob/production/public/logo.svg). Cloudflare et son logo sont des marques de Cloudflare, Inc. Ce portail et ses guides sont indépendants.
+
 ## Site statique
 
 HTML, CSS et JavaScript sans dépendance externe au chargement. Le contenu et les liens sont accessibles sans JavaScript. Les polices et le logo sont servis avec le site ; aucun outil de suivi n’est utilisé.
