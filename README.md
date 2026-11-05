@@ -6,6 +6,8 @@ Le point d’entrée vers les guides pratiques de la chaîne : des étapes, des 
 
 ## Contenu
 
+- [Scanner un skill avant de l’installer avec SkillSpector](https://entredeuxcommits.github.io/guide-skillspector-gate/)
+- [PDF du guide SkillSpector skill-gate](https://entredeuxcommits.github.io/guide-skillspector-gate/guide-skillspector-gate.pdf)
 - [Auditer son code avec le skill Cloudflare](https://entredeuxcommits.github.io/guide-security-audit-cloudflare/)
 - [PDF du guide Security Audit + Cloudflare](https://entredeuxcommits.github.io/guide-security-audit-cloudflare/guide-security-audit-cloudflare.pdf)
 - [Installer VoiceStudio sur Windows](https://entredeuxcommits.github.io/guide-voicestudio/)
