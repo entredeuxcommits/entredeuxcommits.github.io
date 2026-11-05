@@ -15,7 +15,7 @@ Le point d’entrée vers les guides pratiques de la chaîne : des étapes, des 
 
 Chaque guide conserve son propre site et son dépôt. Le portail rassemble leurs liens.
 
-Le symbole Cloudflare provient du [dépôt officiel de sa documentation](https://github.com/cloudflare/cloudflare-docs/blob/production/public/logo.svg). Cloudflare et son logo sont des marques de Cloudflare, Inc. Ce portail et ses guides sont indépendants.
+Le symbole Cloudflare provient du [dépôt officiel de sa documentation](https://github.com/cloudflare/cloudflare-docs/blob/production/public/logo.svg). Cloudflare et son logo sont des marques de Cloudflare, Inc. Le logo NVIDIA est la version pour fond sombre servie par la [documentation officielle NVIDIA Skills](https://docs.nvidia.com/skills/scanning-agent-skills), reprise sans modification ; NVIDIA et son logo sont des marques de NVIDIA Corporation. Ce portail et ses guides sont indépendants.
 
 ## Site statique
 
